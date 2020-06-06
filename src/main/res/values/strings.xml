@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">GreenAir</string>
+    <string name="actually">Актуальное состояние</string>
+    <string name="onmap">На карте</string>
+    <string name="chemicals">Химикаты в воздухе</string>
+
+    <string name="button">Химикаты в воздухе</string>
+    <string name="button2">Химикаты в воздухе</string>
+    <string name="button3">Химикаты в воздухе</string>
+    <string name="button4">Химикаты в воздухе</string>
+    <string name="button5">Химикаты в воздухе</string>
+    <string name="button6">Химикаты в воздухе</string>
+
+</resources>
